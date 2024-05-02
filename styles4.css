@@ -4,4 +4,52 @@
     margin: 0;
     box-sizing: border-box;
     font-family: "Ubuntu", sans-serif;
+    color: #BEB0A6ff;
+}
+
+body{
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0, 0, 0, 0.7)), url(Aestheticness\ for\ my\ favourite\ people.jfif)
+}
+
+.Musicoman{
+    color: #AE8E83ff;
+    font-family: "Ubuntu", sans-serif;
+}
+
+nav{
+    position: absolute;
+    left: 130vh;
+}
+
+ul {
+    align-items: end;
+    font-size: larger;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: dashed;
+    justify-content: space-between;
+    font-family: "Ubuntu", sans-serif;
+}
+
+.title{
+    background-color:  #040404ff;
+    padding: 25px;
+}
+
+footer{
+    text-align: center;
+    background-color:#201C1Dff;
+    padding: 5px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
